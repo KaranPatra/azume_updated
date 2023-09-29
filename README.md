@@ -11,10 +11,7 @@ You can check the web version of this same system [here](https://github.com/imSh
 ## <a name="Results">Results</a>
 
 <table style="width:1720px; border: black; margin: 0px auto;" class="skinny" cellspacing="0" cellpadding="0">
-    <tr>
-        <th>App Recording 1</th>
-        <th>App Recording 2</th>
-    </tr> 
+   
     <tr>
         <td>
             <img src="assets/" alt="Image" width="860" height="700">
